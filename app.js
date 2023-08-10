@@ -1,0 +1,1 @@
+prompt("Create an account")
